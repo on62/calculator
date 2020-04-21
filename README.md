@@ -2,7 +2,7 @@
 
 Rudimentory calculator to help me learn c++ with gtkmm
 
-Taken another dev's work and simplifying it somewhat due to my own inexperience. 
+Taken another dev's[*](https://github.com/satr/calculator) work and simplifying it somewhat due to my own inexperience. 
 
 Building it with:
   ```
