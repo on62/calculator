@@ -1,2 +1,11 @@
 # calculator
-rudimentory calculator to help me learn c++ with gtkmm
+
+Rudimentory calculator to help me learn c++ with gtkmm
+
+Taken another dev's work and simplifying it somewhat due to my own inexperience. 
+
+Building it with:
+  ```
+  g++ *.cpp -o calculator `pkg-config --libs --cflags gtkmm-3.0`
+  ```
+
